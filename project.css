@@ -1,0 +1,49 @@
+body{
+    background-color:#ffb3b3;
+	color:black;
+	text-align:center;
+	font-size:2em;
+	font-family:sans-serif;
+}
+
+# wrapper{
+	width:500px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+ 
+h3{
+	margin:10px;
+}
+
+canvas{
+	border: solid 0.2em #ff0000;
+	height:70vh;
+
+}
+
+.btn{
+	
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+
+ul{
+	list-style-type:none;
+}
+
+a{
+	text-decoration:none;
+	font-size:1.5em;
+	color:white;
+}
